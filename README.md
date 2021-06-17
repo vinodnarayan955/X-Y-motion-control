@@ -3,7 +3,7 @@ LabVIEW code for X-Y motion control
 
 **Following are the instructions to use the simulator app for X-Y motion control**
 1. User can change home position once for both X and Y (initially) before stepping through different steps
-2. Set position between 0 to 200 (The system is capable of generating finest resolution steps as needed by the user)
+2. Set position between 0 to 200 (The system is capable of generating finest resolution positions as needed by the user)
 3. Hit Move to see the dial move to a desired set position from point 6
 4. Hit return home (X or Y) to return to set home position
 

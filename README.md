@@ -12,7 +12,7 @@ LabVIEW code for X-Y motion control
 1. Since it is a simulator app, the goal has been to mimic the system as much as possible with the set of minimum requirements that were given. 
 2. Parameters such as speed, are not taken into consideration as input parameters, idea was to create a very simple app to demonstrate the X-Y control in the most ideal way and without further requirements and hardware it was not worth thinking about the use cases and parameters related to same. 
 3. The max range is assumed to be 200 as a spec for step range that X-Y axes can move as an example for this simulator application
-4. 1:1 relationship between the dial movement and the number of steps set
+4. 1:1 relationship between the movement and the number of steps set
 
 **Prerequisite:**
 1. At a minimum LabVIEW run time enviornment setup (with the JKI package add-on) on a 64-bit windows OS system (LV 2018 or above)

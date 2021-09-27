@@ -1,6 +1,11 @@
 # X-Y-motion-control
 LabVIEW code for X-Y motion control
 
+**Prerequisite:**
+1. At a minimum LabVIEW run time enviornment setup (with the JKI package add-on) on a 64-bit windows OS system (LV 2018 or above)
+2. Install LV 2018 (32-bit) or above on a 64 bit windows OS system
+3. Install VIPM by JKI, download and install JKI SM as an add-on
+
 **Launch Instructions**
 1. Download X-Y-motion-control project which contains all the source code and the executable
 2. Go to builds-----> X-Y motion control----> X-Y motion control app----> and then double-click on X-Y stage sim app.exe to launch the simulator app
@@ -17,8 +22,3 @@ LabVIEW code for X-Y motion control
 2. Parameters such as speed, are not taken into consideration as input parameters, idea was to create a very simple app to demonstrate the X-Y control in the most ideal way and without further requirements and hardware it was not worth thinking about the use cases and parameters related to same. 
 3. The max range is assumed to be 200 as a spec for step range that X-Y axes can move as an example for this simulator application
 4. 1:1 relationship between the movement and the number of steps set
-
-**Prerequisite:**
-1. At a minimum LabVIEW run time enviornment setup (with the JKI package add-on) on a 64-bit windows OS system (LV 2018 or above)
-2. Install LV 2018 (32-bit) or above on a 64 bit windows OS system
-3. Install VIPM by JKI, download and install JKI SM as an add-on

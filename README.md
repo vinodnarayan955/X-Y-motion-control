@@ -4,7 +4,7 @@ LabVIEW code for X-Y motion control
 **Prerequisite:**
 1. At a minimum LabVIEW run time enviornment setup (with the JKI package add-on) on a 64-bit windows OS system (LV 2018 or above)
 2. Install LV 2018 (32-bit) or above on a 64 bit windows OS system
-3. Install VIPM by JKI, download and install JKI SM as an add-on
+3. Install VI Package Manager (VIPM) by JKI, download and install JKI SM as an add-on
 
 **Launch Instructions**
 1. Download X-Y-motion-control project which contains all the source code and the executable

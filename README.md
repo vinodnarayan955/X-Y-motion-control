@@ -1,6 +1,10 @@
 # X-Y-motion-control
 LabVIEW code for X-Y motion control
 
+**Launch Instructions**
+1. Download X-Y-motion-control project which contains all the source code and the executable
+2. Go to builds-----> and then double-click on X-Y-motion-control.exe to launch the simulator app
+
 **Following are the instructions to use the simulator app for X-Y motion control**
 1. User can change home position once for both X and Y (initially) before stepping through different steps
 2. Set position between 0 to 200 (The system is capable of generating finest resolution positions as needed by the user)
